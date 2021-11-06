@@ -1,0 +1,7 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "reportMissingTypeStubs": true,
+  "reportUnknownMemberType": true,
+  "strict": true
+}
